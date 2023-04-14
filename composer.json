@@ -1,0 +1,9 @@
+{
+    "require": {
+        "firebase/php-jwt": "^6.4",
+        "aws/aws-sdk-php": "^3.257",
+        "pragmarx/google2fa": "^8.0",
+        "bacon/bacon-qr-code": "^2.0",
+        "phpmailer/phpmailer": "^6.8"
+    }
+}
